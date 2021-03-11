@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Polishchuk_ai183_lab1</string>
+    <string name="label_text">Введіть своє ім\'я</string>
+    <string name="name_et_hint">Ім\'я</string>
+    <string name="greeting_message">Привіт, %s!</string>
+    <string name="greet_button_text">Привітати</string>
+    <string name="default_greet_message">Привіт, незнайомець!</string>
+</resources>
